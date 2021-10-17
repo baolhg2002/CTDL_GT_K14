@@ -1,4 +1,4 @@
-package tuan3; //baolhg2004110047
+package baolhg2004110047.tuan3;
 public class computerTestDrive {
     
     public static void main(String[] args) {

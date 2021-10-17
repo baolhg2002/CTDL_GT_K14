@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SinhVienGiaDinhTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan5.SinhVienGiaDinhTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch CTMHArrayList",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan5.CTMHArrayList",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai1_lap1",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan1.bai1_lap1",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai2_lap1",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan1.bai2_lap1",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai3_lap1",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan1.bai3_lap1",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai4_lap1",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan1.bai4_lap1",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai1_lap2",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan2.bai1_lap2",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch bookTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan3.bookTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch computerTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan3.computerTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch staffTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan3.staffTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch taiKhoanTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan3.taiKhoanTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch vehicleTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan3.vehicleTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch dogTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan4.dogTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch nhanVienTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan4.nhanVienTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch sinhVienTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan4.sinhVienTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch taiKhoan2TestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan4.taiKhoan2TestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayList",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan5.ArrayList",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan5.BT1",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "vn.edu.Program",
+            "projectName": "MyProject_ae1bba15"
+        }
+    ]
+}

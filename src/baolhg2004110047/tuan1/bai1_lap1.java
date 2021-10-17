@@ -1,4 +1,4 @@
-package tuan1; //baolhg2004110047
+package baolhg2004110047.tuan1; 
 import java.util.Scanner;
 public class bai1_lap1 {
     public static void main(String[] args) {
