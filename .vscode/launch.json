@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MyLinkedListTestDrive",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan7.MyLinkedListTestDrive",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
             "name": "Launch SinhVienGiaDinhTestDrive",
             "request": "launch",
             "mainClass": "baolhg2004110047.tuan5.SinhVienGiaDinhTestDrive",
