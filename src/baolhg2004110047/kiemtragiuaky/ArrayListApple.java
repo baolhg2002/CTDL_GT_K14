@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.unit.Scanner;
+import java.util.Scanner;
 
 public class ArrayListApple {
     public static void main(String[] args) {
@@ -15,33 +15,33 @@ public class ArrayListApple {
             System.out.println("===MENU===");
             System.out.println("Chọn chúc năng: ");
             System.out.println(
-                "1. Thêm táo vào danh sách"
-                "2. Tìm táo dựa vào màu nhập từ bàn phím"
-                "3. In táo"
-                "4. Thoát");
-
-                LuaChon =  AppleList.nextInt();
-                            AppleList.nextLine();
+            "1. Thêm táo vào danh sách"
+            + "2. Tìm táo dựa vào màu sắc"
+            + "3. In táo"
+            + "4. Thoát");
+         
+                LuaChon =  checkApple.nextInt();
+                            checkApple.nextLine();
               if(LuaChon==1) {
-                System.out.println("Nhập tên Apple: "); String name = AppleList.nextLine();
-                System.out.println("Nhập khối lượng: ");Double mass = AppleList.nextDouble();
-                System.out.println("Nhập màu sắc: "); String color = AppleList.nextLine();
+                System.out.println("Nhập tên Apple: "); String name = checkApple.nextLine();
+                System.out.println("Nhập khối lượng: ");Double mass = checkApple.nextDouble();
+                System.out.println("Nhập màu sắc: "); String color = checkApple.nextLine();
 
-                AppleList.nextLine();
+                checkApple.nextLine();
 
-                Apple1 sp = new Apple1(name,mass,color);
+                Apple sp = new Apple(name,color,mass);
                 dsAddApple(sp);
         }
             else if(LuaChon==2){
                 dst.indanhsachtao();
-                AppleList.nextLine();
+                checkApple.nextLine();
             }else if(LuaChon==3){
-                System.out.println("Nhập màu sắc: "); String color = AppleList.nextLine();
+                System.out.println("Nhập màu sắc: "); String color = checkApple.nextLine();
                  System.out.println("Kết quả tìm kiếm: ");
                 dst.timtao(color);
         
         }
-    }while(luaChon!=0);
+    }while(LuaChon!=0);
     
          
 

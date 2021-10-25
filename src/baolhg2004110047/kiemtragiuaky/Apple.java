@@ -13,9 +13,9 @@ public class Apple {
     Scanner n = new Scanner(System.in);
 
     public Apple(String n, int m, String c){
+        name = n;
         mass = m;
         color = c;
-        name = n;
 
     }
 
