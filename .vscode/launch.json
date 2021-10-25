@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayListApple",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.kiemtragiuaky.ArrayListApple",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueDemoProgram",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan8.QueueDemoProgram",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackDemoProgram",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan8.StackDemoProgram",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT4",
+            "request": "launch",
+            "mainClass": "vn.edu.BaiTapCoBan.BT4",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT3",
+            "request": "launch",
+            "mainClass": "vn.edu.BaiTapCoBan.BT3",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT2",
+            "request": "launch",
+            "mainClass": "vn.edu.BaiTapCoBan.BT2",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1",
+            "request": "launch",
+            "mainClass": "vn.edu.BaiTapCoBan.BT1",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
             "name": "Launch MyLinkedListTestDrive",
             "request": "launch",
             "mainClass": "baolhg2004110047.tuan7.MyLinkedListTestDrive",

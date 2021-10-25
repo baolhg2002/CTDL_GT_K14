@@ -2,7 +2,7 @@ package baolhg2004110047.tuan4;
 
  public class Dog {
 
-        public String name;
+        public String name; 
     
         public int size;
     
