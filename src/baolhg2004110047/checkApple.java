@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import baolhg2004110047.kiemtragiuaky.Apple;
 public class checkApple {
 
-    private ArrayList<apple1> danhSach;
+    private ArrayList<Apple> danhSach;
 		
 		public checkApple() {
-			this.danhSach = new ArrayList<apple1>();
+			this.danhSach = new ArrayList<Apple>();
 		}
 		
-		public checkApple(ArrayList<Apple1> danhSach) {
+		public checkApple(ArrayList<Apple> danhSach) {
 			this.danhSach = danhSach;
 		}
         // 1.	Thêm táo vào danh sách.
@@ -26,13 +26,13 @@ public class checkApple {
 		}
        // 3.	Tìm kiếm tất cả táo dựa trên màu sắc  được nhập từ bàn phím.
 		public void timtao(String tensp) {
-			for (apple1 apple1 : danhSach) {
-				if(apple1.getmausac().indexOf(tensp)>=0) {
-					System.out.println(apple1);
+			for ( Apple : danhSach) {
+				if(Apple.color().indexOf(tensp)>=0) {
+					System.out.println(Apple);
 				}
 			}
 		}
         
     
 }
-}
+
