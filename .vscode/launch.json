@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch selectionSoft",
+            "request": "launch",
+            "mainClass": "baolhg2004110047.tuan9.selectionSoft",
+            "projectName": "MyProject_ae1bba15"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayListApple",
             "request": "launch",
             "mainClass": "baolhg2004110047.kiemtragiuaky.ArrayListApple",
